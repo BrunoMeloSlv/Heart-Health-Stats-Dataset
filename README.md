@@ -1,0 +1,3 @@
+## Sobre o conjunto de dados
+
+Esse conjunto de dados inclui informações demográficas, sinais vitais e indicadores do estado de saúde do coração dos indivíduos. Inclui características como idade, sexo, pressão arterial, níveis de colesterol e se o indivíduo sofreu um ataque cardíaco. O conjunto de dados é valioso para analisar tendências relacionadas à saúde cardiovascular e avaliar os fatores de risco associados a doenças cardíacas. Pesquisadores e profissionais de saúde podem utilizar esses dados para identificar padrões, desenvolver modelos preditivos e formular intervenções personalizadas para prevenção e manejo de doenças cardíacas.
